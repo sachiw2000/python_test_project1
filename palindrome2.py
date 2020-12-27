@@ -14,7 +14,7 @@ while word:
         isPalindrome = 0
         break
 if(isPalindrome):
-    print("This is palindrome")
+    print("This is palindrome!!!")
 
 
 
